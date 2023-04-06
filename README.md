@@ -13,7 +13,7 @@ Hi there 👋. I'm Chandu Vutukuri. I'm a Full Stack Developer with 6+ years of 
 ## Experience
 
 ### Paytm Money [One97 Communication] 
-## Senior Software Engineer – Aug 2022 to Present 
+#### Senior Software Engineer – Aug 2022 to Present 
 * Working as a part of Payments Team to develop and integrate end points using **Spring Boot Microservices.** 
 * Built **highly scalable real time payments services** based on various Payment Gateways for making UPI and other channel payments for recurring and one-time payments. 
 * Used **Redis Cache and Kafka** to minimize the turnaround time of the API calls and utilize the full potential of Microservices. 
@@ -22,7 +22,7 @@ Hi there 👋. I'm Chandu Vutukuri. I'm a Full Stack Developer with 6+ years of 
 Increased 21% of unit test coverage to build robust features. 
 
 ### DBS [Development Bank of Singapore] 
-## SDE [Analyst] – Jun 2021 to Jul 2022 
+#### SDE [Analyst] – Jun 2021 to Jul 2022 
 * I worked in a Captial markets team to develop software for our sales team in a customer obsessed manner. 
 * Developed APIs in **Spring Boot Microservices.** Increased the speed to develop the services and deliver in time. 
 * I took ownership and worked on **Kafka** to consume and produce messages in an important Customer Knowledge Graph to share the information updates across teams. 
