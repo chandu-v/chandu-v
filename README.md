@@ -18,8 +18,7 @@ Hi there 👋. I'm Chandu Vutukuri. I'm a Full Stack Developer with 6+ years of 
 * Built **highly scalable real time payments services** based on various Payment Gateways for making UPI and other channel payments for recurring and one-time payments. 
 * Used **Redis Cache and Kafka** to minimize the turnaround time of the API calls and utilize the full potential of Microservices. 
 * Using Data Structure, Algorithms and various Design Patterns to increase code efficiency and maintainability. 
-
-Increased 21% of unit test coverage to build robust features. 
+* Increased 21% of unit test coverage to build robust features. 
 
 ### DBS [Development Bank of Singapore] 
 #### SDE [Analyst] – Jun 2021 to Jul 2022 
